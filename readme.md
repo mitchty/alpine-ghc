@@ -6,7 +6,7 @@ I try to keep things up to date, but this is all mostly a as I get time for it t
 
 Also note, there are 2 repos I use to test with:
 - https://s3-us-west-2.amazonaws.com/alpine-ghc/7.10
-- https://s3-us-west-2.amazonaws.com/alpine-ghc/next
+- https://s3-us-west-2.amazonaws.com/alpine-ghc/next/7.10
 
 The latter is there mostly for testing/validating things I'm building.
 

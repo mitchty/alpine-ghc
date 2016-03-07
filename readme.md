@@ -1,6 +1,6 @@
-# ghc 7.10.3 release
+# ghc 8.0.1 rc2 release
 
-- ghc 7.10.3b
+- ghc 8.0.1 rc2
 - stack 1.0.4
 - cabal 1.22.9.0
 
@@ -8,10 +8,9 @@ Note this repo is mostly a stub. Most work is here https://github.com/mitchty/al
 
 I try to keep things up to date, but this is all mostly a as I get time for it thing.
 
-Also note, there are 2 repos I use to test with:
+Also note, there are ~3 repos I use to test with:
 - https://s3-us-west-2.amazonaws.com/alpine-ghc/7.10
 - https://s3-us-west-2.amazonaws.com/alpine-ghc/next/7.10
+- https://s3-us-west-2.amazonaws.com/alpine-ghc/next/8.0
 
-The latter is there mostly for testing/validating things I'm building.
-
-There may be newer things in it, but they might not work. So caveat emptor.
+The latter two are there mostly for testing and validation. There may be newer things in either, but they might not work. So caveat emptor.

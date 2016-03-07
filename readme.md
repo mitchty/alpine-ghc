@@ -1,8 +1,7 @@
 # ghc 7.10.3 release
 
-Contains:
-- ghc 7.10.3
-- stack 1.0.2
+- ghc 7.10.3b
+- stack 1.0.4
 - cabal 1.22.9.0
 
 Note this repo is mostly a stub. Most work is here https://github.com/mitchty/alpine-linux-ghc-bootstrap

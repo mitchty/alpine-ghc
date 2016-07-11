@@ -8,7 +8,7 @@ COPY mitch.tishmack@gmail.com-55881c97.rsa.pub /etc/apk/keys/mitch.tishmack@gmai
 #
 # zlib-dev, musl-dev, and gmp-dev are all other packages you should ensure
 # are installed depending on your needs or if you're installing from cabal
-RUN echo "https://s3-us-west-2.amazonaws.com/alpine-ghc/8.0" >> /etc/apk/repositories && \
+RUN echo "https://mitchty.net/ghc/8.0.1" >> /etc/apk/repositories && \
     apk add --no-cache ghc cabal stack
 
 CMD ["bash"]

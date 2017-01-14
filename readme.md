@@ -1,15 +1,11 @@
-# ghc 8.0.1 release
+# ghc 8.0.2 release
 
-- ghc 8.0.1 at 2016/05/07
-- cabal 1.24.0.0
+- ghc 8.0.2
+- cabal 1.24.0.2
+- stack 1.3.2
 
 Note this repo is mostly a stub. Most work is here https://github.com/mitchty/alpine-linux-ghc-bootstrap
 
 I try to keep things up to date, but this is all mostly a as I get time for it thing.
 
-Also note, there are ~3 repos I use to test with:
-- https://s3-us-west-2.amazonaws.com/alpine-ghc/7.10
-- https://s3-us-west-2.amazonaws.com/alpine-ghc/next/7.10
-- https://s3-us-west-2.amazonaws.com/alpine-ghc/next/8.0
-
-The latter two are there mostly for testing and validation. There may be newer things in either, but they might not work. So caveat emptor.
+Note, this will likely go away once it is upstreamed to alpine linux testing/community repos.
